@@ -5,3 +5,10 @@ D:\Visual Studio 2017\Projects\Csharp 7.0 and 7.1 New Features\ConsoleApp1\obj\D
 D:\Visual Studio 2017\Projects\Csharp 7.0 and 7.1 New Features\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\Visual Studio 2017\Projects\Csharp 7.0 and 7.1 New Features\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Visual Studio 2017\Projects\Csharp 7.0 and 7.1 New Features\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\GitHub\C-7.0-and-7.1-New-Features\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
